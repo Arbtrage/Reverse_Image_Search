@@ -1,5 +1,5 @@
 # Reverse_Image_Search
-Problem statement:
+<b>Problem statement:<b>
 A reverse image search engine based on the fundamental Deep Learning algorithm, viz., K-NN algorithm(K-Nearest Neighbours). 
 
 
